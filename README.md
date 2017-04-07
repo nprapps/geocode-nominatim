@@ -122,7 +122,7 @@ You can add a debug flag to the script to have a more verbose execution
 $python geocode.py $CSVFILE -d
 ```
 
-### Sample
+### Sample
 
 If you want to test the execution on a sample of the data prior to launching the full dataset then:
 
