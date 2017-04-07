@@ -1,0 +1,8 @@
+*.py[co]
+
+# Cache files
+cache/*
+!cache/.placeholder
+
+# Output files
+output/*
