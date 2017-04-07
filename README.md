@@ -57,7 +57,8 @@ pip install -r requirements.txt
 Geocode unstructured data
 -------------------------
 
-In order to geocode an unstructured address, create a csv file with an `address` header and the addresses that you want to geocode and then execute
+In order to geocode an unstructured address, create a csv file with the following headers:
+* address -- unstructured format, wrap in quotes if it contains commas
 
 ```
 $python geocode.py $CSVFILE
